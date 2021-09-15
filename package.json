@@ -1,0 +1,18 @@
+{
+  "name": "mongowtf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn jest test.js --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "jest": "^27.2.0",
+    "mongodb-memory-server": "^7.4.0",
+    "mongodb3": "npm:mongodb@3",
+    "mongodb4": "npm:mongodb@4"
+  }
+}
